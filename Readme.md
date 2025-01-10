@@ -1,2 +1,2 @@
-<h1, center = center >Open AI and lang-chian.</h1>
+<h1 center= center>Open AI and lang-chian.</h1>
 
